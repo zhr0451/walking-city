@@ -1,0 +1,39 @@
+{
+	"nodes":[
+		{
+			"id":"0961e443389760b9",
+			"type":"text",
+			"text":"Знакомство персонажей",
+			"styleAttributes":{},
+			"x":-260,
+			"y":-360,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"2d559684b44b5c00",
+			"type":"text",
+			"text":"Изучение города",
+			"styleAttributes":{},
+			"x":-260,
+			"y":-260,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"f20ea97b35b00618",
+			"type":"text",
+			"text":"",
+			"styleAttributes":{},
+			"x":-260,
+			"y":-140,
+			"width":260,
+			"height":60
+		}
+	],
+	"edges":[],
+	"metadata":{
+		"version":"1.0-1.0",
+		"frontmatter":{}
+	}
+}
