@@ -20,7 +20,7 @@
 
 1. Клонируйте репозиторий:
     ```bash
-    git clone https://github.com/yourusername/walking-city.git
+    git clone https://github.com/zhr0451/walking-city.git
     cd walking-city
     ```
 2. Ознакомьтесь с материалами и инструкциями в папке проекта.
